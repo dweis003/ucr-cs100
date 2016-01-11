@@ -16,7 +16,7 @@ It means:
 
 6. (occasionally) we combine all these together and break stuff
 
-Hacking is a mindset.
+Hacking is a .
 I can't force it on you---it's up to you to embrace it.
 For example, we'll be discussing many new tools in this course:
 a version control system called `git`,
